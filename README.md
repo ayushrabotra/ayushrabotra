@@ -15,17 +15,17 @@ and dashboard development.
 
 ## 📊 Featured Projects
 
-### Sales Performance Analysis
-An exploratory sales analysis project focused on understanding sales,
-profitability, product performance, and key business metrics.
+### [Sales Performance Analysis](https://github.com/ayushrabotra/sales-performance-analysis)
+
+An exploratory sales analysis project focused on understanding sales, profitability, product performance, and key business metrics.
 
 **Tools:** Excel
 
-### Sales Performance Dashboard
-An interactive Power BI dashboard designed to analyze sales,
-profitability, quantities sold, and overall business performance.
+### [Sales Performance Dashboard — Power BI](https://github.com/ayushrabotra/sales-performance-powerbi-dashboard)
 
-**Tools:** Power BI, Excel
+An interactive Power BI dashboard analyzing sales, profit, quantity, product performance, and regional trends.
+
+**Tools:** Power BI
 
 ## 🎯 Currently Learning
 
