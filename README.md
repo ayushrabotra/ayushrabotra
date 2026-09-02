@@ -30,7 +30,7 @@ An interactive Power BI dashboard analyzing sales, profit, quantity, product per
 ## 🎯 Currently Learning
 
 - Advanced SQL
-- Power BI & DAX
+- Power BI
 - Data Visualization
 - Business Intelligence
 
